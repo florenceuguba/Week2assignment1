@@ -1,8 +1,9 @@
 # Week2assignment1
 Clearly in a tabular form, distinguish between web 1, web 2, and web 3.
+
 WEB 1
 1. It is read only content based website
-2. Thw website content is owned by a single author
+2. The website content is owned by a single author
 3. It has only home pages and no other for navigation
 4. It makes use of Page views
 5. It has root directories
